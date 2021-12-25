@@ -1,6 +1,6 @@
 # odin-recipes
-<strong>title</strong>: HTML Foundations: "Project: Recipes"
-<strong>description</strong>: first major output for the odin project which showcases my knowledge on html.
+<strong>title</strong>: HTML Foundations: "Project: Recipes"<br>
+<strong>description</strong>: first major output for the odin project which showcases my knowledge on html.<br>
 <strong>content</strong>: i will employ the following:
   <ul>
     <li>unordered list for the ingredients</li>
@@ -10,4 +10,4 @@
     <li>bold for important parts of the text</li>
     <li>italics for emphasis on some parts of the recipes</li>
   </ul>
-<strong>PS</strong>: this is a complete copy of <a href="https://foodess.com/moist-chocolate-cake/">this recipe</a>.
+<strong>PS</strong>: this is a complete copy of the text &#40;JUST really the text&#41; from <a href="https://foodess.com/moist-chocolate-cake/">this recipe</a>.
