@@ -1,0 +1,10 @@
+.header {
+  background-color: #ae2012;
+}
+
+.header.text {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: #ffe8d6;
+}
